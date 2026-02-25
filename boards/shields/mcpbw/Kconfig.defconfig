@@ -1,0 +1,16 @@
+if SHIELD_MCPBW_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "MCPBW"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif # SHIELD_MCPBW_LEFT
+
+if SHIELD_MCPBW_LEFT || SHIELD_MCPBW_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif # SHIELD_MCPBW_LEFT || SHIELD_MCPBW_RIGHT
