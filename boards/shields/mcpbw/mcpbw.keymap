@@ -8,15 +8,15 @@
 #define GAMING 3
 
 / {
-    combos {
-      compatible = "zmk,combos";
-      combo_btclear {
-        timeout-ms = <50>;
-        key-positions = <38 39>;
-        layers = <2>;
-        bindings = <&bt BT_CLR>;
-      };
-    };
+  //  combos {
+  //    compatible = "zmk,combos";
+  //    combo_btclear {
+  //      timeout-ms = <50>;
+  //      key-positions = <38 39>;
+  //      layers = <2>;
+  //      bindings = <&bt BT_CLR>;
+  //    };
+  //  };
 
     keymap {
         compatible = "zmk,keymap";
