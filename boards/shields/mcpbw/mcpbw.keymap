@@ -2,6 +2,9 @@
 #include <dt-bindings/zmk/keys.h>
 
 #define DEFAULT 0
+#define LOWER 1
+#define UPPER 2
+#define GAMING 3
 
 / {
     keymap {
