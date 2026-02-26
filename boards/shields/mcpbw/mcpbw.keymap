@@ -38,7 +38,7 @@
 
           bindings = <
             &trans    &trans    &trans    &trans    &trans    &trans        &trans        &trans        &kp MINUS     &kp EQL
-            &kp TAB   &trans    &trans    &trans    &kp NUBS  &trans        &trans        &kp RA(N7)    &kp RA(N0)    &kp RBRC
+            &kp TAB   &trans    &trans    &trans    &kp NUBS  &kp RA(N8)    &kp RA(N9)    &kp RA(N7)    &kp RA(N0)    &kp RBRC
             &trans    &trans    &trans    &trans    &trans    &kp LEFT      &kp DOWN      &kp UP        &kp RIGHT     &trans
             &kp LSHFT &trans    &trans    &trans    &trans    &trans        &trans        &trans        &kp SLASH     &kp LBRC
             &trans    &trans    &trans    &trans    &trans    &kp RALT      &trans        &kp COMMA     &trans        &trans
