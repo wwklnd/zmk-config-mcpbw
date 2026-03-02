@@ -14,10 +14,13 @@ url: https://example.com
 # See https://zmk.dev/docs/development/hardware-integration/hardware-metadata-files#features
 features:
   - keys
-  - studio  # Remove this line if your keyboard will not support ZMK Studio
+  - studio # Remove this line if your keyboard will not support ZMK Studio
+  - display
 
 requires:
   - pro_micro
+exposes:
+  - i2c_oled
 
 siblings:
   - mcpbw_left
