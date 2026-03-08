@@ -29,7 +29,7 @@
             &kp SV_N1    &kp SV_N2    &kp SV_N3   &kp SV_N4 &kp SV_N5     &kp SV_N6    &kp SV_N7    &kp SV_N8  &kp SV_N9           &kp SV_N0
             &kp SV_Q     &kp SV_W     &kp SV_E    &kp SV_R  &kp SV_T      &kp SV_Y     &kp SV_U     &kp SV_I   &kp SV_O            &kp SV_P
             &kp SV_A     &kp SV_S     &kp SV_D    &kp SV_F  &kp SV_G      &kp SV_H     &kp SV_J     &kp SV_K   &kp SV_L            &kp BSLH
-            &kp ESC      &kp SV_Z     &kp SV_X    &kp SV_C  &kp SV_V      &kp SV_B     &kp SV_N     &kp SV_M   &kp SV_A_UMLAUT     &kp SV_O_UMLAUT
+            &kp ESC      &kp SV_Z     &kp SV_X    &kp SV_C  &kp SV_V      &kp SV_B     &kp SV_N     &kp SV_M   &kp SV_O_UMLAUT     &kp SV_A_UMLAUT
             &kp LCTRL    &kp LALT     &kp LGUI    &mo 1     &kp SPACE     &kp BSPC     &kp LSHFT    &kp DOT    &mo 2               &kp RET
           >;
         };
