@@ -1,2 +1,4 @@
 
 .zmk/
+#Ignore Emacs undo-tree history
+*.~undo-tree~
