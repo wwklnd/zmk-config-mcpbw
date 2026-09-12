@@ -1,7 +1,0 @@
-(undo-tree-save-format-version . 1)
-"41b8ee1e0ee806d482fc92ac279493bc3f16555a"
-[nil nil nil nil (27301 25428 326762 565000) 0 nil]
-([nil nil ((#("#" 0 1 (face font-lock-comment-delimiter-face fontified t)) . 483) (t 27049 42788 313745 237000)) nil (27301 25428 326760 190000) 0 nil])
-([nil nil ((#("#" 0 1 (face font-lock-comment-delimiter-face fontified t)) . 504)) nil (27301 25428 326757 816000) 0 nil])
-([nil current ((#("#" 0 1 (face font-lock-comment-delimiter-face fontified t)) . 532)) nil (27301 25428 326751 949000) 0 nil])
-nil
